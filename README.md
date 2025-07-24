@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +49,15 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# TicketEase
+a ticketing management system designed for artists who will be conducting a live concert here in the Philippines, and also for the concert-goers who will be purchasing concert tickets of their favorite artists.
+
+Registration and login, concert ticket purchase, event creation and management
+
+React Native + TypeScript
+IDE: VS Code
+Database: mySql
+viewing on the phone: Expo / Expo Go app
+
+>>>>>>> dc6ffa2b03ce73a78cbd113be46d6d83d7f41532
